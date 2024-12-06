@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: aliceblue;
+}
+
+p {
+  font-size: 5mm;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+}
+
+img {
+  margin-left: 500px;
+}
